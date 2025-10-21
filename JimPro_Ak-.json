@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Cool Cyberpunk Portrait",
+    "image": "https://raw.githubusercontent.com/username/repo/main/cyberpunk.jpg",
+    "prompt": "Make me look like a neon cyberpunk hero with blue lighting."
+  },
+  {
+    "title": "Anime Style",
+    "image": "https://raw.githubusercontent.com/username/repo/main/anime.jpg",
+    "prompt": "Convert this photo into anime art with vibrant tones."
+  }
+]
