@@ -405,5 +405,116 @@
     "gender": "Male",
     "family": false,
     "couple": false
+  },
+
+  {
+    "title": "Desert Gangster",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 25-year-old Islamic boy standing beside a black Mercedes G-Wagon in the desert at sunset. He wears a beige thobe with black leather jacket over it, silver ring on his finger, eyes sharp and fearless. Golden sandstorm light creates a gritty cinematic mood. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "realistic", "cinematic", "gangster", "desert"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Arabic Mafia Boss",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 24-year-old Islamic boy in a luxury palace corridor with gold chandeliers and marble floors. Wearing a black tailored sherwani with golden chain and watch, he faces the camera with dominance and calm. Warm golden lighting enhances the royal gangster look. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "luxury", "mafia", "palace"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Cigarette Under Minaret",
+    "image": "url",
+    "prompt": "8K realistic cinematic portrait of a 23-year-old Islamic boy leaning against a mosque wall at dusk, smoking a cigarette, eyes half-shadowed by his kufi. The glowing calligraphy behind him adds contrast between faith and rebellion. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "moody", "faith", "contrast"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Luxury Car Don",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a young Islamic boy sitting on the hood of a Rolls Royce parked before an Arabic mansion at night. He wears a black tuxedo with kufi cap, hands in pockets, gold watch shining. The mansion lights and car chrome reflect cinematic highlights. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "luxury", "car", "gangster"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Old City Mafia",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 25-year-old Islamic boy walking through a narrow old city alley lit by golden lamps. He wears a black long coat over a white kurta, eyes locked forward with confidence, silver ring gleaming. The mood feels like an Arabic Peaky Blinders scene. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "street", "mafia", "heritage"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Midnight Mosque Don",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 23-year-old Islamic boy standing near a mosque gate at midnight under neon blue streetlights. He wears a black overcoat and silver chain, hands joined, with an aura of silent power. The minaret glows faintly behind him. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "night", "neon", "gangster"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Golden Hour Boss",
+    "image": "url",
+    "prompt": "8K cinematic close-up of a 24-year-old Islamic boy with trimmed beard and sunglasses, wearing a golden embroidered sherwani at sunset. Behind him stands a dome mosque with birds flying. The golden backlight forms a halo around his figure. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "golden-hour", "boss", "realistic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Rainy Street King",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a young Islamic boy in a wet black coat walking on a rainy street in Dubai at night. Neon reflections on puddles and Arabic shop boards glow behind him. His confident stare and posture show silent authority. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "rain", "Dubai", "urban"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Arabic Suit Legend",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 25-year-old boy wearing a custom Arabic-inspired suit with intricate golden embroidery, standing in a luxury hall with chandelier light. He faces the camera directly, calm and powerful, exuding a royal gangster vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "luxury", "suit", "boss"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Desert Gunlord",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 23-year-old Islamic boy standing on desert dunes at dusk, holding a golden revolver downwards, symbolizing power and control. He wears a long beige robe with modern tactical vest, calm expression facing the camera. Sandstorm haze adds cinematic tension. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Gangster Style",
+    "keywords": ["Islamic", "cinematic", "desert", "power", "realistic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   }
 ]
