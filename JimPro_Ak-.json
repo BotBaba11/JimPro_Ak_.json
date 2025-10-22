@@ -43,5 +43,56 @@
     "title": "Urban Golden Hour Kolkata",
     "image": "https://aieditingprompt.in/wp-content/uploads/2025/09/Gemini_Generated_Image_xn7q4rxn7q4rxn7q-747x1024.png",
     "prompt": "Cinematic 3:4 portrait of a young man in an oversized beige linen shirt and tailored cargos, standing on heritage stone steps with the Howrah Bridge glowing in golden backlight. Tousled hair, luxury wristwatch, subtle forearm tattoo. Warm bokeh blends with river reflections, creating timeless Kolkata street vibes. Keep the face exactly as in the reference photo."
+  },
+  {
+    "title": "Evening Prayer Light",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 22-year-old Islamic boy wearing a white thobe and kufi, standing near a mosque window as golden sunlight filters through intricate arabic patterns. The light softly touches his face, creating a divine aura and emotional depth. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Desert Reflection",
+    "image": "url",
+    "prompt": "A young Muslim boy aged 24 standing alone in the desert dunes at sunset, wearing traditional Arabic attire with the wind blowing his scarf. The sky glows orange and gold with cinematic contrast and realistic sand textures. 8K filmic tones with emotional solitude and faith. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Under Mosque Dome",
+    "image": "url",
+    "prompt": "Cinematic half-body portrait of a 21-year-old Islamic man standing under the grand dome of a mosque, light beams falling through stained glass, highlighting his calm and spiritual expression. Traditional outfit, shallow depth of field, ultra-detailed textures. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Rainy Street Jumuah",
+    "image": "url",
+    "prompt": "Ultra-realistic cinematic scene of a young Muslim boy walking to the mosque in light rain, umbrella in hand, wearing beige thobe and sneakers. Golden reflections on wet pavement, glowing street lamps, and a serene spiritual vibe. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Faith in Medina",
+    "image": "url",
+    "prompt": "8K cinematic close-up portrait of a 23-year-old boy standing near the Prophet’s Mosque in Medina, soft sunlight illuminating his side profile as pigeons fly behind him. His eyes show calm faith and purity. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Quran Study Moment",
+    "image": "url",
+    "prompt": "A cinematic 3:4 portrait of a 20-year-old Islamic boy reading the Quran under warm lamplight in a traditional room with Arabic calligraphy on the walls. Shallow focus on his calm expression, highlighting spirituality and knowledge. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Sunrise at Mosque Steps",
+    "image": "url",
+    "prompt": "Cinematic 8K shot of a 25-year-old man sitting on the marble steps of a grand mosque during sunrise, holding prayer beads in one hand. The sun glows behind minarets with lens flare and soft shadows. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Night of Reflection",
+    "image": "url",
+    "prompt": "Ultra-realistic cinematic close-up of a 22-year-old Muslim boy in dark traditional attire looking at the stars outside the mosque courtyard at night, illuminated by lantern light. Calm, emotional, and poetic atmosphere. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Eid Morning Glow",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a joyful young man wearing a freshly ironed white thobe and golden watch, standing in sunlight after Eid prayer with smiles and festive energy. Background filled with bokeh and cheerful people. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "The Traveler of Faith",
+    "image": "url",
+    "prompt": "Cinematic portrait of a 24-year-old Islamic traveler walking through an old Arabic market street, backpack and keffiyeh on his shoulder. Dust particles floating in sunlight, 8K realistic tone with a story of faith and journey. Take face from uploaded image, face should match 100% from uploaded image."
   }
+  
 ]
