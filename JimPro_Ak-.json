@@ -295,6 +295,115 @@
     "title": "Arabic Calligraphy Lanterns",
     "image": "url",
     "prompt": "8K ultra-realistic cinematic portrait of a 24-year-old boy standing in a narrow alley decorated with glowing Arabic calligraphy lanterns. He wears a white kurta-pyjama with subtle embroidery, faces the camera with quiet strength and focus. Lantern reflections create warm cinematic depth across the walls and his face. Take face from uploaded image, face should match 100% from uploaded image."
+  },
+  {
+    "title": "Sunrise at Al-Masjid an-Nabawi",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 22-year-old Islamic boy standing in the open courtyard of Al-Masjid an-Nabawi at sunrise. He wears a cream thobe and white kufi, facing directly at the camera, with the green dome and minarets softly glowing behind him. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "mosque", "sunrise"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Golden Hour at Kaaba",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 24-year-old boy standing centered before the Kaaba at golden hour. He wears a white ihram, eyes calm and directly facing the camera, with warm sunlight casting a divine glow on the marble. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Kaaba", "golden-hour"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Taj Mahal Reflection",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 23-year-old Islamic boy standing at the reflecting pool before the Taj Mahal at sunrise. He wears a royal white sherwani with gold embroidery, centered and looking directly into the camera. The marble reflects pink-golden hues. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Taj Mahal", "reflection"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Qutub Minar Heritage",
+    "image": "url",
+    "prompt": "Ultra-realistic 8K portrait of a 22-year-old Islamic boy standing in front of Qutub Minar in Delhi. He wears a long black jubba with silver embroidery, facing forward, with intricate carvings behind him. Soft sunlight highlights his face in cinematic detail. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Qutub Minar", "heritage"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Ramadan Night Lanterns",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 23-year-old Islamic boy standing in a street adorned with glowing Ramadan lanterns at night. He wears a beige thobe and prayer cap, facing the camera with calm devotion. Lantern reflections create cinematic bokeh. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Ramadan", "lanterns"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Eid Celebration Courtyard",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 24-year-old Islamic boy in front of a mosque after Eid prayer. He wears a green kurta with embroidery, facing forward, eyes showing joy and serenity. Golden sunlight illuminates the courtyard, enhancing cinematic warmth. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Eid", "celebration"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Sufi Shrine Serenity",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 23-year-old Islamic boy standing inside a dimly lit Sufi shrine. Soft candlelight reflects on marble floors, highlighting his calm face. He wears a cream thobe and faces directly forward with spiritual devotion. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "Sufi", "shrine"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Moonlit Mosque Silhouette",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 22-year-old boy standing in front of a mosque at night under a bright full moon. Silhouettes of minarets frame him while he faces the camera directly. Dark thobe with moonlight reflecting on his calm features. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "mosque", "moonlight"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Desert Prayer Horizon",
+    "image": "url",
+    "prompt": "8K cinematic full-body portrait of a 25-year-old Islamic boy standing on desert dunes at sunrise, facing forward in prayer. White thobe and beige scarf, cinematic lens flare highlighting sand ripples. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "desert", "prayer"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Arabic Calligraphy Alley",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 24-year-old Islamic boy standing in an alley adorned with glowing Arabic calligraphy lanterns. White kurta-pyjama with subtle embroidery, centered and facing the camera, with cinematic depth created by light and shadows. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Portrait",
+    "keywords": ["Islamic", "realistic", "cinematic", "calligraphy", "lanterns"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   }
-
 ]
