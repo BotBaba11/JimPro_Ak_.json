@@ -144,7 +144,6 @@
     "image": "url",
     "prompt": "8K ultra-realistic cinematic portrait of a 25-year-old Islamic boy standing at a seaside cliff near a coastal mosque. The ocean breeze moves his robe slightly, and the horizon glows gold. He stands perfectly centered, facing straight ahead, a look of hope and strength in his eyes. The atmosphere blends spirituality with cinematic realism. Take face from uploaded image, face should match 100% from uploaded image."
   },
-
   {
     "title": "Kaaba Glow of Faith",
     "image": "url",
@@ -245,7 +244,6 @@
     "image": "url",
     "prompt": "Cinematic 8K portrait of a 24-year-old boy standing alone in a vast mosque courtyard after the evening prayer. The floor reflects soft moonlight. He wears a simple white kurta and holds prayer beads, facing the camera with eyes full of peace and reflection. Take face from uploaded image, face should match 100% from uploaded image."
   },
-
   {
     "title": "Sufi Shrine Reflection",
     "image": "url",
@@ -406,7 +404,6 @@
     "family": false,
     "couple": false
   },
-
   {
     "title": "Desert Gangster",
     "image": "url",
@@ -626,8 +623,7 @@
     "gender": "Male",
     "family": false,
     "couple": false
-  }, 
-
+  },
   {
     "title": "Yacht King Sunset Vibes",
     "image": "url",
@@ -738,7 +734,6 @@
     "family": false,
     "couple": false
   },
-
   {
     "title": "Desert King Arrival",
     "image": "url",
@@ -849,6 +844,4 @@
     "family": false,
     "couple": false
   }
-
-
 ]
