@@ -516,5 +516,339 @@
     "gender": "Male",
     "family": false,
     "couple": false
+  }, 
+  {
+    "title": "Luxury King with Eagle",
+    "image": "url",
+    "prompt": "8K cinematic ultra-realistic portrait of a 25-year-old gangster standing on a luxury villa balcony with a golden eagle on his arm. Wearing a black designer suit, gold chain, and sunglasses, overlooking a modern city skyline at golden hour. Power and calm in his eyes. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "gangster", "eagle", "villa", "city", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Cheetah Partner",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 24-year-old luxury gangster sitting on a marble chair beside a calm cheetah. He wears a white tuxedo with golden embroidery and watches. Behind him, a glass mansion with warm sunset lighting. Royal and fearless aura. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "cheetah", "cinematic", "boss", "villa"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Dubai Rooftop Lion",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a young gangster standing on a Dubai skyscraper rooftop at night beside a lion. Wearing a black Arabic designer jacket, golden accessories, and intense gaze toward the city. City lights and wind create cinematic movement. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "lion", "Dubai", "night", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Rolls Royce Mafia",
+    "image": "url",
+    "prompt": "8K cinematic close-up of a 25-year-old luxury gangster sitting in the back seat of a Rolls Royce Phantom with tinted windows. Wearing a custom black suit, diamond ring, and luxury watch. Golden bokeh reflections from city lights enhance the mood. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "car", "Rolls Royce", "cinematic", "mafia"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Private Jet Boss",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a gangster walking down the stairs of a private jet with bodyguards behind him. Wearing a cream-colored luxury coat, sunglasses, holding cigar. The jet reflects sunset gold light. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "private jet", "cinematic", "mafia", "boss"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Gold Throne Don",
+    "image": "url",
+    "prompt": "Cinematic 8K ultra-detailed portrait of a 24-year-old gangster sitting on a golden throne with a lion beside him. Wearing a velvet suit with golden crown pendant, looking straight at the camera with a cold expression. Dim royal lighting and shadows enhance dominance. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "lion", "throne", "gold", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Midnight Mansion Boss",
+    "image": "url",
+    "prompt": "8K cinematic realistic portrait of a young gangster standing outside a modern glass mansion at midnight. Wearing a white blazer, black shirt, and gold wristwatch. Two luxury cars (Lamborghini and Rolls Royce) parked behind him. Subtle fog and neon blue reflections. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "mansion", "night", "cinematic", "Lamborghini"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Eagle Shadow King",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a 25-year-old gangster walking on a rooftop helipad with an eagle flying beside him. He wears a black long coat, gold chain, and reflective sunglasses. Background shows cityscape and sunset clouds. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "eagle", "rooftop", "cinematic", "power"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Panther Throne Scene",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a luxury gangster sitting in a dark marble room with a black panther beside him. Wearing a black and gold robe, cigar smoke in the air, low golden spotlight highlighting his calm and powerful look. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "panther", "cinematic", "dark", "powerful"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Desert VIP Lifestyle",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a 24-year-old gangster in a luxury white outfit standing beside a golden Bugatti in the desert with a cheetah sitting calmly near him. Wind blowing through his outfit, sunset orange tones enhance the luxury power aura. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "cheetah", "Bugatti", "desert", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  }, 
+
+  {
+    "title": "Yacht King Sunset Vibes",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a young luxury gangster standing on a private yacht deck during sunset, ocean breeze flowing through his hair. Wearing a white linen shirt unbuttoned slightly, gold chain shining in the sun, holding a glass of champagne. Behind him, luxury yachts shimmer in golden reflections. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "yacht", "sunset", "cinematic", "champagne"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Private Jet Lounge Boss",
+    "image": "url",
+    "prompt": "Ultra-realistic 8K cinematic portrait of a 25-year-old gangster relaxing inside a private jet cabin. Wearing a cream designer suit, holding cigar and gold lighter. Behind him, two flight attendants serve drinks. Soft warm cabin lighting, mood of power and peace. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "private jet", "cigar", "cinematic", "boss"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Night Club Mafia",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a young gangster entering a private VIP club with bodyguards beside him. Wearing black velvet jacket with diamond chain and luxury wristwatch. Neon blue and purple lighting reflect on his face. Crowd blurred in background, all eyes on him. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["nightclub", "luxury", "cinematic", "neon", "boss"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Gold Mansion Party",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 24-year-old gangster hosting a luxury gold-themed party inside a grand mansion. He stands in the center holding a champagne bottle, wearing white tuxedo with golden embroidery. Background glows with chandeliers and crystal reflections. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "party", "mansion", "gold", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Cigar & City Lights",
+    "image": "url",
+    "prompt": "Cinematic 8K close-up portrait of a gangster standing by a penthouse window at night overlooking skyscrapers. Wearing black shirt with open collar, holding cigar in one hand and glass of whiskey in other. Reflections of city lights create moody luxury vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "penthouse", "city", "cigar", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Diamond Dealer Boss",
+    "image": "url",
+    "prompt": "8K cinematic ultra-detailed portrait of a luxury gangster inspecting diamonds in his private office. Wearing a black silk shirt and Rolex watch, surrounded by black marble walls and golden lighting. A lion sculpture stands in background symbolizing dominance. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "diamonds", "office", "cinematic", "boss"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Supercar Garage Scene",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a young gangster leaning against a red Ferrari in a luxury underground garage filled with exotic cars. Wearing dark grey suit with gloves, neon reflections bounce on car surfaces, smoke adds cinematic atmosphere. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "cars", "Ferrari", "garage", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Luxury Suite Mirror Look",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a gangster adjusting his tie in front of a mirror inside a luxury hotel suite. Wearing an all-black Armani tuxedo, dim golden light reflecting off marble walls, giving movie-style elegance. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "suite", "mirror", "cinematic", "style"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Casino Royal Mood",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 25-year-old gangster sitting at a casino poker table with poker chips and whiskey glass. Wearing a deep blue velvet blazer, subtle smirk on his face as smoke rises from his cigar. Neon reflections enhance the power atmosphere. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["casino", "luxury", "cinematic", "poker", "smoke"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Golden Jet Landing",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a gangster stepping off a golden private jet on a runway. Wearing a beige overcoat and sunglasses, holding phone in one hand and a cigar in the other. Jet engines glow in sunset light. Power, wealth, and perfection captured in one frame. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["luxury", "jet", "runway", "cinematic", "power"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+
+  {
+    "title": "Desert King Arrival",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 25-year-old desert mafia stepping out of a golden SUV in the Arabian desert. Wearing a white thobe and gold-trimmed bisht, sunglasses reflecting sunlight. Two bodyguards behind him, luxury tents in the distance. Dust and heatwaves create dramatic realism. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["desert", "luxury", "SUV", "mafia", "cinematic", "royal"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Falcon Prince",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a young Arabian gangster wearing royal golden robe holding a falcon on his arm. Standing on red desert sand dunes during golden hour with flowing robe and wind-swept hair. Royal confidence and calm aura. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["falcon", "desert", "luxury", "royal", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Golden Palace Boss",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a gangster walking through the golden corridors of an Arabic palace with sunlight beams crossing marble pillars. Wearing black and gold sherwani with gemstone buttons, hands behind his back. Scene exudes royalty and calm dominance. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["palace", "royal", "luxury", "gold", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Lion of Arabia",
+    "image": "url",
+    "prompt": "8K cinematic ultra-realistic portrait of a 24-year-old gangster sitting beside a lion in front of a golden palace gate. Wearing a long white thobe and golden scarf, calm expression and deep eyes reflecting strength. Desert wind moves dust around his shoes. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["lion", "desert", "palace", "luxury", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Cheetah Companion",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a luxury gangster in an open desert road beside a cheetah. Wearing a black Arabic coat and gold wristwatch, standing near a golden Lamborghini with doors open. Sunlight and desert wind create a dynamic cinematic tone. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["cheetah", "desert", "car", "luxury", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Royal Desert Walk",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a gangster walking alone in the desert at sunrise wearing an all-white designer robe. Background filled with luxury SUVs, golden tents, and falcons flying overhead. Dust and orange tones make it feel like a royal film scene. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["desert", "royal", "luxury", "cinematic", "sunrise"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Horse of Power",
+    "image": "url",
+    "prompt": "Cinematic 8K ultra-realistic portrait of a gangster riding a black Arabian horse across the dunes. Wearing a golden jacket and sunglasses, holding reins firmly. Golden light hitting his face adds heroic and royal mood. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["horse", "desert", "luxury", "cinematic", "royal"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Gold Throne Empire",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a young gangster sitting on a gold-carved throne in a palace hall with marble floor and giant chandeliers. Wearing black suit with golden embroidery, lion emblem behind the seat. Scene exudes royal dominance and calm power. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["throne", "palace", "luxury", "gold", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Golden Sandstorm Look",
+    "image": "url",
+    "prompt": "Cinematic 8K portrait of a gangster standing in a sandstorm wearing golden aviator sunglasses and a long beige trench coat. Desert winds blow sand around him as he stands near a golden car. The lighting and dust make the scene feel like a Hollywood poster. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["sandstorm", "desert", "luxury", "cinematic", "gold"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Desert Night Power",
+    "image": "url",
+    "prompt": "8K cinematic ultra-detailed portrait of a 25-year-old gangster standing near a burning campfire in desert night. Wearing a leather Arabic jacket and scarf, luxury cars parked behind him under moonlight. The stars above and firelight reflect on his calm but powerful face. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Gangster",
+    "keywords": ["desert", "night", "luxury", "cinematic", "firelight"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   }
+
+
 ]
