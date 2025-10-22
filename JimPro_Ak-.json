@@ -845,48 +845,113 @@
     "couple": false
   },
   {
-    "title": "Luxury Sunset Drive",
-    "image": "https://source.unsplash.com/random/1080x1350?supercar,sunset",
-    "prompt": "8K ultra-realistic cinematic portrait of a young man standing beside a black Lamborghini Aventador at sunset. He’s wearing a beige designer suit, gold wristwatch, and luxury loafers. City skyline glows behind him, reflections on the car perfectly balanced. The man faces the camera confidently with soft golden sunlight highlighting his jawline. Capture the elegance of modern luxury lifestyle.",
-    "category": "Luxury Lifestyle",
-    "keywords": ["luxury", "car", "sunset", "cinematic", "fashion"],
-    "age": "25",
-    "gender": "Male"
+    "title": "Midnight Empire",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a young mafia leader standing on a skyscraper balcony at midnight. Wearing an all-black Italian suit with gold watch, smoking a cigar while city lights reflect off his shades. Helicopter light flashes in the distance, symbolizing control and danger. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["mafia", "luxury", "city", "night", "cigar"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   },
   {
-    "title": "Private Jet Boarding",
-    "image": "https://source.unsplash.com/random/1080x1350?privatejet,airport",
-    "prompt": "8K cinematic image of a man in a white tuxedo walking up the stairs of a private jet. He holds a Louis Vuitton bag and wears aviator sunglasses. Background shows luxury runway lights reflecting on the polished jet surface. The golden-hour lighting adds a warm tone. Capture confidence, exclusivity, and wealth in a realistic frame.",
-    "category": "Luxury Lifestyle",
-    "keywords": ["private jet", "luxury", "travel", "fashion", "cinematic"],
-    "age": "26",
-    "gender": "Male"
+    "title": "Golden Gun Lord",
+    "image": "url",
+    "prompt": "Cinematic 8K ultra-realistic portrait of a 24-year-old mafia boss holding a custom golden pistol in one hand and a glass of whiskey in the other. Wearing a silk black shirt with open collar, tattoos visible. Background shows marble table, gold lamp, and expensive liquor bottles. The light is warm and moody. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["mafia", "gun", "luxury", "whiskey", "gold"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   },
   {
-    "title": "Penthouse View",
-    "image": "https://source.unsplash.com/random/1080x1350?penthouse,citynight",
-    "prompt": "Ultra-realistic night portrait of a man standing on a glass balcony of a luxury penthouse overlooking a glowing skyline. He’s dressed in a sleek black turtleneck and Rolex watch, holding a glass of champagne. Reflections of skyscraper lights shimmer around him. The mood is calm, powerful, and cinematic.",
-    "category": "Luxury Lifestyle",
-    "keywords": ["penthouse", "night", "city", "wealth", "realistic"],
-    "age": "27",
-    "gender": "Male"
+    "title": "The Silent King",
+    "image": "url",
+    "prompt": "8K cinematic portrait of a young luxury mafia boss sitting in a black leather chair with lion tattoos on his hands. Dim lights from chandeliers fall across his face. Wearing an Italian blazer with gold embroidery and diamond cufflinks. His calm stare shows silent power. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["luxury", "mafia", "throne", "cinematic", "power"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   },
   {
-    "title": "Luxury Yacht Party",
-    "image": "https://source.unsplash.com/random/1080x1350?yacht,party",
-    "prompt": "8K cinematic photo of a man on a luxury yacht deck during sunset. Wearing white linen shirt, beige chinos, and gold accessories. Background shows deep blue ocean and glowing sky. Crystal glasses, champagne bottles, and LED reflections add realism and high-class vibes.",
-    "category": "Luxury Lifestyle",
-    "keywords": ["yacht", "ocean", "sunset", "luxury", "party"],
-    "age": "24",
-    "gender": "Male"
+    "title": "Tiger of Dubai",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a gangster in a luxury Dubai villa sitting beside a Bengal tiger. Wearing white designer suit and gold chain, background filled with panoramic city view and glowing pool lights. The tiger rests calmly near him, symbolizing dominance and wealth. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["tiger", "luxury", "Dubai", "mafia", "villa"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   },
   {
-    "title": "Luxury Pet King",
-    "image": "https://source.unsplash.com/random/1080x1350?lion,luxury",
-    "prompt": "Cinematic portrait of a man sitting confidently on a royal leather chair beside a golden lion. He’s wearing a custom black velvet suit with gold embroidery, rings, and a luxury watch. The background is an ornate palace interior with chandeliers. The lighting is warm and rich, showing dominance and class.",
-    "category": "Luxury Lifestyle",
-    "keywords": ["lion", "luxury", "palace", "royal", "cinematic"],
-    "age": "28",
-    "gender": "Male"
+    "title": "The Casino Deal",
+    "image": "url",
+    "prompt": "Cinematic 8K ultra-realistic portrait of a young mafia negotiator inside a luxury casino. Poker chips and whiskey glass on table, soft golden lighting from chandelier above. Wearing tailored navy suit with open shirt collar. Cards scattered near his diamond watch. His eyes lock on the camera with subtle smile. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["casino", "luxury", "mafia", "poker", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Underworld Crown",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a 25-year-old mafia emperor wearing a black crown and velvet royal robe, sitting in a modern throne room. Behind him, large digital screens show his empire map glowing in blue and gold. Scene exudes authority, intelligence, and power. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["crown", "luxury", "mafia", "royal", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Boss’s Eagle",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a mafia boss wearing dark sunglasses and black trench coat while holding an eagle on his arm. Standing near luxury sports cars under cloudy sky. The eagle’s wings are partially open, wind brushing his hair. A symbol of vision and dominance. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["eagle", "luxury", "mafia", "cinematic", "car"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "The Vault Master",
+    "image": "url",
+    "prompt": "Cinematic 8K ultra-realistic portrait of a young gangster standing inside a gold vault room. Background filled with stacked gold bars and dim lights. Wearing a black suit with golden tie, holding gloves in one hand. Scene exudes extreme wealth and mystery. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["vault", "gold", "luxury", "mafia", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
+  },
+  {
+    "title": "Royal Crime Dinner",
+    "image": "url",
+    "prompt": "8K cinematic ultra-realistic portrait of a mafia family dinner in a royal dining hall. The main boss sits in center wearing velvet coat with golden rings. Background features candlelight and wine glasses, servants in blur. Scene feels elegant yet dangerous. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["mafia", "luxury", "dinner", "royal", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": true,
+    "couple": false
+  },
+  {
+    "title": "Night of Diamonds",
+    "image": "url",
+    "prompt": "8K ultra-realistic cinematic portrait of a mafia don holding diamond-encrusted pistol under city lights. Wearing dark velvet coat, heavy chain, and luxury wristwatch. Raindrops sparkle on his shoulders. Background blurred with glowing skyscrapers. The mood is tense, powerful, and photorealistic. Take face from uploaded image, face should match 100% from uploaded image.",
+    "category": "Luxury Mafia",
+    "keywords": ["diamonds", "luxury", "mafia", "city", "cinematic"],
+    "age": "20-25",
+    "gender": "Male",
+    "family": false,
+    "couple": false
   }
 ]
