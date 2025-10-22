@@ -843,5 +843,50 @@
     "gender": "Male",
     "family": false,
     "couple": false
+  },
+  {
+    "title": "Luxury Sunset Drive",
+    "image": "https://source.unsplash.com/random/1080x1350?supercar,sunset",
+    "prompt": "8K ultra-realistic cinematic portrait of a young man standing beside a black Lamborghini Aventador at sunset. He’s wearing a beige designer suit, gold wristwatch, and luxury loafers. City skyline glows behind him, reflections on the car perfectly balanced. The man faces the camera confidently with soft golden sunlight highlighting his jawline. Capture the elegance of modern luxury lifestyle.",
+    "category": "Luxury Lifestyle",
+    "keywords": ["luxury", "car", "sunset", "cinematic", "fashion"],
+    "age": "25",
+    "gender": "Male"
+  },
+  {
+    "title": "Private Jet Boarding",
+    "image": "https://source.unsplash.com/random/1080x1350?privatejet,airport",
+    "prompt": "8K cinematic image of a man in a white tuxedo walking up the stairs of a private jet. He holds a Louis Vuitton bag and wears aviator sunglasses. Background shows luxury runway lights reflecting on the polished jet surface. The golden-hour lighting adds a warm tone. Capture confidence, exclusivity, and wealth in a realistic frame.",
+    "category": "Luxury Lifestyle",
+    "keywords": ["private jet", "luxury", "travel", "fashion", "cinematic"],
+    "age": "26",
+    "gender": "Male"
+  },
+  {
+    "title": "Penthouse View",
+    "image": "https://source.unsplash.com/random/1080x1350?penthouse,citynight",
+    "prompt": "Ultra-realistic night portrait of a man standing on a glass balcony of a luxury penthouse overlooking a glowing skyline. He’s dressed in a sleek black turtleneck and Rolex watch, holding a glass of champagne. Reflections of skyscraper lights shimmer around him. The mood is calm, powerful, and cinematic.",
+    "category": "Luxury Lifestyle",
+    "keywords": ["penthouse", "night", "city", "wealth", "realistic"],
+    "age": "27",
+    "gender": "Male"
+  },
+  {
+    "title": "Luxury Yacht Party",
+    "image": "https://source.unsplash.com/random/1080x1350?yacht,party",
+    "prompt": "8K cinematic photo of a man on a luxury yacht deck during sunset. Wearing white linen shirt, beige chinos, and gold accessories. Background shows deep blue ocean and glowing sky. Crystal glasses, champagne bottles, and LED reflections add realism and high-class vibes.",
+    "category": "Luxury Lifestyle",
+    "keywords": ["yacht", "ocean", "sunset", "luxury", "party"],
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "title": "Luxury Pet King",
+    "image": "https://source.unsplash.com/random/1080x1350?lion,luxury",
+    "prompt": "Cinematic portrait of a man sitting confidently on a royal leather chair beside a golden lion. He’s wearing a custom black velvet suit with gold embroidery, rings, and a luxury watch. The background is an ornate palace interior with chandeliers. The lighting is warm and rich, showing dominance and class.",
+    "category": "Luxury Lifestyle",
+    "keywords": ["lion", "luxury", "palace", "royal", "cinematic"],
+    "age": "28",
+    "gender": "Male"
   }
 ]
