@@ -2761,5 +2761,926 @@
         "gender": "Male",
         "family": false,
         "couple": false
+    },
+    {
+        "title": "Evening Calm at Al Noor Mosque",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a 23-year-old man standing peacefully in front of Al Noor Mosque during sunset. Golden sunlight reflects on marble floors while pigeons fly around. He wears a light beige thobe with a white scarf, hands folded in calm reflection. The background glows with soft pastel tones giving a pure, peaceful and divine vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "mosque",
+            "sunset",
+            "peace",
+            "calm",
+            "Islamic",
+            "golden hour",
+            "spiritual"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Morning Light of Mecca",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young man standing near the Kaaba courtyard during early morning prayer. The sky glows with soft orange light as birds circle above. He wears a white ihram with pure serenity on his face, symbolizing peace and purity. The marble reflects the first light of dawn, giving the moment a heavenly aura. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "kaaba",
+            "mecca",
+            "sunrise",
+            "peace",
+            "Islamic",
+            "spiritual",
+            "holy"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Golden Hour in Medina",
+        "image": "url",
+        "prompt": "8K cinematic ultra-realistic portrait of a man in front of Al-Masjid an-Nabawi during golden hour. The sun lights up the green dome while his robe flutters softly in the warm breeze. A subtle smile shows gratitude and peace. Background filled with glowing lanterns and calm worshippers walking by. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "medina",
+            "mosque",
+            "golden hour",
+            "peace",
+            "light",
+            "spiritual"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Peace Beside the River",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Muslim man sitting beside a calm river surrounded by palm trees, reading the Quran. The sky turns golden pink as the sun sets behind distant dunes. His reflection shimmers in the water, creating a pure, tranquil aura. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "river",
+            "quran",
+            "peace",
+            "calm",
+            "sunset",
+            "Islamic"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "City Lights of Istanbul",
+        "image": "url",
+        "prompt": "8K ultra-detailed cinematic portrait of a young Muslim man standing on a rooftop in Istanbul with the Blue Mosque glowing in the background. Wearing a dark green coat and traditional kufi, city lights shimmer below, and seagulls fly above the Bosphorus. The scene radiates modern Islamic charm with a calm, hopeful vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "istanbul",
+            "mosque",
+            "citylight",
+            "peace",
+            "Islamic",
+            "vibe"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Evening Calm at Al Noor Mosque",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a 23-year-old man standing peacefully in front of Al Noor Mosque during sunset. Golden sunlight reflects on marble floors while pigeons fly around. He wears a light beige thobe with a white scarf, hands folded in calm reflection. The background glows with soft pastel tones giving a pure, peaceful and divine vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "mosque",
+            "sunset",
+            "peace",
+            "calm",
+            "Islamic",
+            "golden hour",
+            "spiritual"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Morning Light of Mecca",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young man standing near the Kaaba courtyard during early morning prayer. The sky glows with soft orange light as birds circle above. He wears a white ihram with pure serenity on his face, symbolizing peace and purity. The marble reflects the first light of dawn, giving the moment a heavenly aura. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "kaaba",
+            "mecca",
+            "sunrise",
+            "peace",
+            "Islamic",
+            "spiritual",
+            "holy"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Golden Hour in Medina",
+        "image": "url",
+        "prompt": "8K cinematic ultra-realistic portrait of a man in front of Al-Masjid an-Nabawi during golden hour. The sun lights up the green dome while his robe flutters softly in the warm breeze. A subtle smile shows gratitude and peace. Background filled with glowing lanterns and calm worshippers walking by. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "medina",
+            "mosque",
+            "golden hour",
+            "peace",
+            "light",
+            "spiritual"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "Peace Beside the River",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Muslim man sitting beside a calm river surrounded by palm trees, reading the Quran. The sky turns golden pink as the sun sets behind distant dunes. His reflection shimmers in the water, creating a pure, tranquil aura. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "river",
+            "quran",
+            "peace",
+            "calm",
+            "sunset",
+            "Islamic"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": true,
+        "couple": false
+    },
+    {
+        "title": "City Lights of Istanbul",
+        "image": "url",
+        "prompt": "8K ultra-detailed cinematic portrait of a young Muslim man standing on a rooftop in Istanbul with the Blue Mosque glowing in the background. Wearing a dark green coat and traditional kufi, city lights shimmer below, and seagulls fly above the Bosphorus. The scene radiates modern Islamic charm with a calm, hopeful vibe. Take face from uploaded image, face should match 100% from uploaded image.",
+        "category": "Islamic Good Vibe",
+        "keywords": [
+            "istanbul",
+            "mosque",
+            "citylight",
+            "peace",
+            "Islamic",
+            "vibe"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Islamic Royal Elegance",
+        "image": "url",
+        "prompt": "A 25-year-old Islamic man standing in the courtyard of a luxurious Arabian palace, wearing a pure white thobe with golden embroidery and a designer agal. The man stands confidently in the center, facing forward with a soft royal smile under the golden sunset. The marble floor reflects warm sunlight, and behind him rise tall palm trees, domed Islamic architecture, and intricate mosaic patterns. The atmosphere glows with spiritual calm, elegance, and wealth — a cinematic 8K ultra-realistic scene with perfect lighting and gentle desert breeze moving the fabric. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Lifestyle",
+        "keywords": [
+            "Islamic",
+            "luxury",
+            "royal",
+            "elegant",
+            "Arab",
+            "realistic"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Desert Majesty",
+        "image": "url",
+        "prompt": "A cinematic portrait of a young Islamic man in his mid-twenties standing beside a black luxury SUV parked near golden sand dunes. He wears a designer bisht with golden lining, luxury watch, and sunglasses reflecting the desert skyline. The scene captures him looking directly into the camera with calm pride as an eagle perches beside him. Behind him, a luxurious tent and distant domes shimmer under a 8K sunset glow. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Lifestyle",
+        "keywords": [
+            "Islamic",
+            "desert",
+            "luxury",
+            "SUV",
+            "eagle",
+            "8K"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Palace Serenity",
+        "image": "url",
+        "prompt": "A young Muslim man sits on an elegant marble bench inside an Islamic courtyard filled with fountains, lanterns, and blooming white roses. He wears a black thobe with silver threadwork, holding prayer beads gracefully in one hand while gazing ahead peacefully. The sunlight filters through carved arches, creating soft reflections across the scene. The environment feels pure, spiritual, and rich with heritage — rendered in ultra-realistic cinematic 8K detail. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Lifestyle",
+        "keywords": [
+            "Islamic",
+            "peaceful",
+            "royal",
+            "spiritual",
+            "8K",
+            "heritage"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Arabian Power Aura",
+        "image": "url",
+        "prompt": "A 24-year-old Islamic man standing in the center of a grand marble hallway with tall golden pillars and glowing chandeliers. He wears a custom-tailored black thobe with subtle silver accents, layered with a luxury coat and a gold wristwatch. His confident gaze faces forward, reflecting strength and calm intelligence. Behind him, luxury cars and Arabic calligraphy walls create a mix of power and spirituality. The scene glows with cinematic 8K lighting, desert wind entering from open arches. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Mafia",
+        "keywords": [
+            "Islamic",
+            "mafia",
+            "luxury",
+            "royal",
+            "8K",
+            "power"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Desert King Energy",
+        "image": "url",
+        "prompt": "A cinematic 8K portrait of a young Islamic man leaning against a white Rolls Royce in the desert, wearing a golden bisht over a black designer thobe. His face glows under warm sunset light as a falcon sits proudly on his shoulder. Behind him, luxury tents and domed palaces fade into the horizon. The atmosphere radiates dominance and grace — a perfect fusion of faith and power. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Mafia",
+        "keywords": [
+            "Islamic",
+            "luxury",
+            "mafia",
+            "falcon",
+            "Rolls Royce",
+            "desert"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Night Majesty",
+        "image": "url",
+        "prompt": "An ultra-realistic night scene of a stylish Islamic man standing on a palace balcony under golden lights. He wears a black thobe with golden embroidery, diamond cufflinks, and a perfectly groomed beard. The skyline behind him shows domes and luxury skyscrapers glowing together. His calm but powerful presence defines leadership and faith in harmony. Shot in 8K cinematic lighting with warm reflections on marble floors. take face from uploaded image, face should be match 100% from uploaded image",
+        "category": "Luxury Islamic Mafia",
+        "keywords": [
+            "Islamic",
+            "mafia",
+            "royal",
+            "gold",
+            "night",
+            "luxury"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Sunset Prayer Serenity",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man praying peacefully on a desert cliff at sunset. The sky glows with warm orange and purple hues, soft wind moving his robe gently. A golden masjid dome shines faintly in the distance as sunlight touches his calm face. He wears a pure white thobe and a simple kufi, radiating peace and devotion. The moment feels sacred, filled with good vibes and spiritual warmth. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "Islamic",
+            "peace",
+            "sunset",
+            "spiritual",
+            "cinematic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Mosque Reflection",
+        "image": "url",
+        "prompt": "Cinematic 8K image of a young man sitting calmly beside a golden mosque pool at sunrise. His reflection glows in the water as birds fly over the minarets. Dressed in a cream-colored thobe, he watches the calm water with a gentle smile, symbolizing purity, gratitude, and peace. Warm sunlight touches marble tiles, giving the whole scene a divine energy and good-vibe feeling. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mosque",
+            "reflection",
+            "peace",
+            "spiritual",
+            "good vibes",
+            "sunrise"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Morning of Blessings",
+        "image": "url",
+        "prompt": "8K realistic cinematic portrait of a young Islamic man walking in a garden near a marble masjid. Soft rays of morning light fall on his face as he holds prayer beads in one hand. Birds flutter around, trees shine with dew, and his calm expression spreads positivity. The moment feels heavenly — filled with warmth, faith, and gratitude. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "Islamic",
+            "morning",
+            "faith",
+            "peace",
+            "good vibes",
+            "nature"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Moonlight Prayer at Kaaba",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man praying at the Kaaba under a bright full moon. Soft moonlight reflects on the marble courtyard while lanterns glow gently around him. He wears a crisp white ihram, standing in calm devotion. The atmosphere radiates spiritual peace, divine energy, and serenity. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "Kaaba",
+            "moonlight",
+            "prayer",
+            "spiritual",
+            "peace",
+            "good vibes",
+            "Islamic"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Medina Night Glow",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young man standing on a terrace overlooking Al-Masjid an-Nabawi at night. Soft golden lights illuminate the green dome and minarets, and stars shine brightly in the clear sky. He wears a navy blue thobe with a subtle pattern, hands folded in reflection. The scene radiates calm, divine presence, and spiritual tranquility — perfect Islamic Good Vibe. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "Medina",
+            "night",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes",
+            "mosque"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Stars over Islamic Courtyard",
+        "image": "url",
+        "prompt": "8K cinematic ultra-realistic portrait of a young Islamic man sitting peacefully in a courtyard filled with traditional lanterns and fountains. The night sky is full of stars, reflecting gently on the water pools. He wears a cream-colored thobe with a soft shawl, exuding calm, reflection, and spiritual energy. The scene captures ultimate serenity and good vibes, perfect for a divine cinematic moment. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "night",
+            "stars",
+            "courtyard",
+            "spiritual",
+            "Islamic",
+            "good vibes",
+            "peace"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Sunset Reflection in Desert",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing alone on golden desert dunes during sunset. He wears a cream-colored thobe with gold embroidery and a simple white scarf. Soft wind moves the fabric gently. The sun dips behind distant dunes, casting long shadows and warm golden light on his calm, reflective face. The scene radiates peace, spirituality, and serene good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "sunset",
+            "peace",
+            "spiritual",
+            "Islamic",
+            "golden hour",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Dunes Serenity",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man walking along a desert path lined with sand dunes glowing in warm sunset light. He wears a soft beige thobe with subtle golden patterns. Palm trees and a distant mosque dome are barely visible on the horizon. His calm expression and gentle posture radiate spiritual tranquility and positive energy. The entire scene feels cinematic, peaceful, and luxurious. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "sunset",
+            "Islamic",
+            "spiritual",
+            "calm",
+            "luxury",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Evening Calm Oasis",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young man sitting peacefully beside a small desert oasis at sunset. He wears a white thobe with golden threads and a light beige scarf. Palm trees and a mosque dome reflect softly on the water surface. The warm golden light and gentle desert breeze create an atmosphere of calm, serenity, and spiritual reflection. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "oasis",
+            "sunset",
+            "spiritual",
+            "Islamic",
+            "peace",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Sunset by the River",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man sitting peacefully on a wooden dock beside a calm river during sunset. He wears a cream-colored thobe with delicate embroidery and a light scarf. The water reflects warm golden tones and nearby mosque domes. His serene expression radiates calm, gratitude, and spiritual energy. Gentle breeze moves the fabric softly, creating a cinematic, peaceful, and luxurious atmosphere. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "river",
+            "sunset",
+            "peace",
+            "spiritual",
+            "Islamic",
+            "luxury",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Reflection Courtyard",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man standing beside a calm river courtyard with small fountains and lanterns. The golden sunset light reflects off the water and marble surfaces. He wears a soft white thobe with gold embroidery, holding prayer beads lightly in his hand. The scene radiates tranquility, spirituality, and luxury Islamic vibes with perfect cinematic detail. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "river",
+            "courtyard",
+            "sunset",
+            "spiritual",
+            "Islamic",
+            "calm",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Peaceful Coastal Walk",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man walking along a golden sandy coastline at sunset. He wears a light beige thobe and a white scarf flowing gently in the evening breeze. Soft waves lap at the shore and a distant mosque is silhouetted against the orange sky. His calm gaze and serene posture radiate spiritual peace, good vibes, and cinematic elegance. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "coast",
+            "sunset",
+            "Islamic",
+            "spiritual",
+            "peace",
+            "good vibes",
+            "cinematic"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Oasis Mountain Reflection",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man sitting peacefully beside a tranquil mountain oasis. He wears a cream-colored thobe with subtle golden embroidery and a light beige scarf. The water perfectly reflects the surrounding dunes, palm trees, and a small distant mosque. Golden sunset light bathes the scene, casting a warm, spiritual glow. His calm expression radiates serenity, good vibes, and divine reflection. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mountain",
+            "oasis",
+            "sunset",
+            "peace",
+            "spiritual",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Mountain Prayer",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man standing on a rocky mountain plateau overlooking an oasis at sunset. He wears a pure white thobe and light beige scarf, hands folded in prayer. Soft wind moves his robes while golden sunlight reflects on the water below. The scene captures peace, spiritual reflection, and luxurious tranquility, with cinematic attention to detail. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mountain",
+            "oasis",
+            "prayer",
+            "sunset",
+            "Islamic",
+            "peace",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Serene Desert Mountain",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man walking along golden desert mountains near a small oasis. He wears a soft cream thobe with golden embroidery and a flowing scarf. The scene is bathed in warm sunset light, palm trees and distant mosque domes in the background. His calm gaze and relaxed posture radiate spiritual tranquility and luxurious serenity. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mountain",
+            "desert",
+            "oasis",
+            "sunset",
+            "Islamic",
+            "peace",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Starry Night Prayer",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man praying alone on a desert dune under a sky full of stars. He wears a crisp white thobe and a light scarf, standing calmly with hands raised in supplication. Soft moonlight illuminates his serene face and flowing robe. The surrounding sand dunes glow subtly under the starlight, creating a spiritual and peaceful cinematic atmosphere. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "stars",
+            "night",
+            "prayer",
+            "desert",
+            "Islamic",
+            "peace",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Moonlight Courtyard Reflection",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man sitting quietly in a marble courtyard under a full moon. He wears a soft beige thobe with golden embroidery, hands gently holding prayer beads. The courtyard pools reflect the moonlight and the glowing lanterns around, creating a tranquil and spiritual atmosphere. His calm expression radiates divine peace, luxury, and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "moonlight",
+            "courtyard",
+            "spiritual",
+            "Islamic",
+            "peace",
+            "good vibes",
+            "stars"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Oasis Under Stars",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man sitting peacefully beside a desert oasis at night, gazing at the clear star-filled sky. He wears a white thobe with a light scarf, and the palm trees and mosque domes reflect softly on the water. The moonlight and stars create a calm, serene, and spiritual environment filled with good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "oasis",
+            "night",
+            "stars",
+            "spiritual",
+            "Islamic",
+            "peace",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Morning Prayer at Sunrise",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man praying on a terrace of a mosque at sunrise. He wears a crisp white thobe with subtle golden embroidery, standing calmly with hands raised in supplication. Soft golden sunlight bathes his face and robes, reflecting on the marble floor and nearby water fountains. The atmosphere radiates peace, spirituality, and warm good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "sunrise",
+            "prayer",
+            "spiritual",
+            "Islamic",
+            "peace",
+            "good vibes",
+            "morning"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Courtyard Serenity",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man walking calmly through a mosque courtyard at sunrise. He wears a soft beige thobe with gold embroidery, holding prayer beads in one hand. Soft light reflects on the marble tiles and fountain pools, creating a warm, spiritual, and peaceful cinematic scene. His calm expression radiates good vibes and inner tranquility. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "courtyard",
+            "sunrise",
+            "Islamic",
+            "spiritual",
+            "peace",
+            "good vibes",
+            "morning"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Desert Morning Reflection",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing on golden desert dunes at sunrise. He wears a cream-colored thobe and light scarf, gazing calmly at the horizon as soft sunlight touches his face and flowing robes. Palm trees and a distant mosque dome are visible in the warm light. The scene radiates serenity, spiritual energy, and luxurious good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "sunrise",
+            "Islamic",
+            "spiritual",
+            "peace",
+            "good vibes",
+            "morning"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Dome Reflection",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing in front of a grand mosque with a golden dome and intricate arches. He wears a white thobe with subtle gold embroidery, hands folded calmly in front. Soft sunlight glows on the marble floor and reflects on the polished columns. The scene exudes spiritual serenity, architectural grandeur, and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mosque",
+            "dome",
+            "architecture",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Majestic Arches Calm",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man walking through majestic mosque arches with sunlight streaming through ornate windows. He wears a cream-colored thobe with gold embroidery, holding prayer beads lightly in his hand. The polished marble floor and intricate patterns radiate calm, spiritual energy, and architectural beauty. His serene gaze reflects inner peace and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mosque",
+            "arches",
+            "architecture",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Sunlit Minaret Reflection",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing near a mosque courtyard with tall minarets glowing in morning sunlight. He wears a soft white thobe with gold embroidery, looking calmly at the reflection of the mosque in a water pool. The scene radiates tranquility, spiritual devotion, and cinematic beauty with architectural elegance and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "mosque",
+            "minaret",
+            "architecture",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Desert Mosque Sunrise",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing in front of a majestic desert mosque at sunrise. He wears a crisp white thobe with subtle gold embroidery and a light scarf. Golden sunlight reflects on the mosque domes and desert sand dunes, creating a serene and spiritual atmosphere. His calm expression radiates peace, spirituality, and luxurious good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "mosque",
+            "sunrise",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Oasis Mosque Calm",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man sitting peacefully near an oasis beside a desert mosque at golden hour. He wears a soft cream thobe with gold embroidery and a flowing scarf. The mosque domes reflect softly on the water surface, surrounded by palm trees and sand dunes. The scene radiates tranquility, spiritual serenity, and cinematic good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "oasis",
+            "mosque",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Dune Mosque Reflection",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man walking along golden desert dunes with a distant mosque in the background. He wears a cream-colored thobe with golden embroidery, calm and reflective. The sunlight casts long shadows on the dunes and mosque, creating a spiritual and peaceful cinematic environment filled with good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "mosque",
+            "sunset",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Moonlit Desert Mosque",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing in front of a glowing desert mosque under a full moon. He wears a crisp white thobe with subtle golden embroidery, standing calmly with hands folded in reflection. Soft moonlight illuminates the sand dunes and mosque domes, creating a serene and spiritual atmosphere filled with peace and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "moonlight",
+            "mosque",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Night Oasis Mosque Glow",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man sitting peacefully beside a desert oasis with a mosque in the background, under starry night sky. He wears a soft cream thobe with golden embroidery and a flowing scarf. The mosque domes and palm trees reflect softly in the water, illuminated by warm lantern lights. The scene radiates spiritual serenity, calmness, and cinematic good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "oasis",
+            "mosque",
+            "stars",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Stars over Desert Mosque",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man walking along desert dunes at night with a mosque softly glowing in the distance. He wears a white thobe and light scarf flowing in the gentle night breeze. The starry sky and moonlight create a calm, spiritual, and peaceful cinematic atmosphere, reflecting good vibes and divine serenity. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "mosque",
+            "night",
+            "stars",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Sunrise Mosque Oasis",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man standing beside a small oasis with a majestic mosque in the background during sunrise. He wears a soft cream-colored thobe with delicate gold embroidery, gazing calmly at the golden horizon. Palm trees reflect softly on the water, and the dunes glow warmly. The scene radiates tranquility, spiritual reflection, and cinematic good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "sunrise",
+            "desert",
+            "mosque",
+            "oasis",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Golden Desert Mosque Reflection",
+        "image": "url",
+        "prompt": "Cinematic 8K portrait of a young Islamic man walking along golden desert dunes with a mosque and oasis in the distance during sunrise. He wears a cream-colored thobe with golden embroidery and a light scarf flowing gently in the morning breeze. The sunlight casts warm reflections on the sand and water, creating a serene, spiritual, and peaceful cinematic atmosphere filled with good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "desert",
+            "sunrise",
+            "mosque",
+            "oasis",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
+    },
+    {
+        "title": "Oasis Sunrise Serenity",
+        "image": "url",
+        "prompt": "8K ultra-realistic cinematic portrait of a young Islamic man sitting peacefully by a desert oasis with a mosque dome reflecting in the calm water during sunrise. He wears a white thobe with subtle gold embroidery and a soft beige scarf. Palm trees and dunes bathed in golden light surround him. The scene exudes spiritual calm, luxurious serenity, and cinematic good vibes. take face from uploaded image, face should match 100% from uploaded image",
+        "category": "Islamic Good Vibes",
+        "keywords": [
+            "sunrise",
+            "oasis",
+            "desert",
+            "mosque",
+            "spiritual",
+            "peace",
+            "Islamic",
+            "good vibes"
+        ],
+        "age": "20-25",
+        "gender": "Male",
+        "family": false,
+        "couple": false
     }
 ]
