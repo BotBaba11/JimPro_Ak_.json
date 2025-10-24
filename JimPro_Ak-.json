@@ -3682,5 +3682,38 @@
         "gender": "Male",
         "family": false,
         "couple": false
-    }
+    },
+    {
+  "title": "Ali at the Golden Horizon",
+  "image": "url",
+  "prompt": "8K ultra-realistic cinematic portrait of Ali standing at the edge of golden desert dunes during sunrise. He wears a pure white thobe with soft golden embroidery and holds prayer beads in one hand. A grand mosque shines behind him under the glowing sun. His calm eyes reflect faith and strength as the wind gently lifts the sand. The atmosphere feels warm, spiritual, and filled with good vibes. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Ali", "sunrise", "desert", "mosque", "faith", "spiritual", "good vibes", "peace"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
+},
+{
+  "title": "Ali and the Oasis Mosque",
+  "image": "url",
+  "prompt": "Cinematic 8K ultra-realistic portrait of Ali walking slowly beside a small oasis surrounded by palm trees with a white marble mosque in the distance. The golden sunlight reflects softly off the water. Ali wears a cream thobe and light beige scarf flowing with the wind. His peaceful expression radiates inner calm and spiritual energy, perfectly balanced with luxury and faith. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Ali", "oasis", "mosque", "desert", "spiritual", "calm", "Islamic", "good vibes"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
+},
+{
+  "title": "Ali’s Morning Reflection",
+  "image": "url",
+  "prompt": "8K cinematic portrait of Ali sitting near a tranquil oasis at sunrise, gazing thoughtfully at the reflection of a distant mosque in the still water. Wearing a soft beige thobe and white keffiyeh, his face glows under the golden light. The entire atmosphere feels spiritual, cinematic, and filled with the serenity of faith and good vibes. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Ali", "reflection", "sunrise", "mosque", "peace", "spiritual", "good vibes", "Islamic"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
+}
 ]
