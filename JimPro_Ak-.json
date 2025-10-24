@@ -3715,5 +3715,38 @@
   "gender": "Male",
   "family": false,
   "couple": false
+},
+    {
+  "title": "Ali in Karbala Night",
+  "image": "url",
+  "prompt": "8K ultra-realistic cinematic portrait of Ali standing in the holy land of Karbala at night, holding the Zulfiqar sword upright beside him. He wears a black Shia robe with silver embroidery and a black turban under a starry sky. The golden dome of Imam Hussain’s shrine glows softly in the background. His expression is calm yet powerful, representing faith, courage, and divine strength. Desert dust glows under lantern light, adding a spiritual cinematic tone. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Karbala", "Ali", "Zulfiqar", "black dress", "Shia", "faith", "courage", "Islamic", "night", "cinematic"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
+},
+{
+  "title": "Zulfiqar Under the Moonlight",
+  "image": "url",
+  "prompt": "Cinematic 8K portrait of Ali standing beneath the moonlight on the sands of Karbala, holding the legendary Zulfiqar sword in his hand. He wears a black Shia thobe and silver-lined cloak flowing in the desert breeze. Behind him, the illuminated shrine domes shine faintly through golden mist. His expression shows bravery and peace — a warrior of faith and mercy. The scene radiates power and spirituality. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Zulfiqar", "Karbala", "Ali", "Shia", "black outfit", "moonlight", "faith", "spiritual", "cinematic"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
+},
+{
+  "title": "The Spirit of Karbala",
+  "image": "url",
+  "prompt": "8K ultra-realistic cinematic portrait of Ali walking slowly through the sacred sands of Karbala during twilight. Wearing a black Shia robe and long cloak, he holds the Zulfiqar sword pointed downward as a symbol of respect. The sky burns with red and orange hues while the golden shrine domes glow in the distance. His calm gaze toward the horizon reflects sacrifice, faith, and timeless dignity. take face from uploaded image, face should match 100% from uploaded image",
+  "category": "Islamic Good Vibes",
+  "keywords": ["Karbala", "Ali", "Zulfiqar", "faith", "Shia", "sacrifice", "spiritual", "good vibes", "cinematic"],
+  "age": "20-25",
+  "gender": "Male",
+  "family": false,
+  "couple": false
 }
 ]
